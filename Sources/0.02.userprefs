@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assets\Scripts\Map\MapReader\MapXmlReader.cs">
+    <Files>
+      <File FileName="Assets\Assets\Scripts\GamePlay\CheckPointColider.cs" Line="28" Column="16" />
+      <File FileName="Assets\Assets\Scripts\Enter &amp; Exit\Init.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\GUI\MainMenuView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\NecromancerGUI\GUITestScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\GUI\MainMenuViewModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\GamePlay\CheckPoints.cs" Line="40" Column="30" />
+      <File FileName="Assets\Assets\Resources\MainMenuResX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\GUI\GamePlayView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Map\MapReader\MapXmlReader.cs" Line="40" Column="36" />
+      <File FileName="Assets\Assets\Scripts\Map\MapReader\MapObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Camera\VehicleCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\GamePlay\FinishPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\Scripts\Vehicle\CarControl.cs" Line="33" Column="2" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="9" Column="51" />
+      <File FileName="Assets\Assets\Scripts\Services\SceneLoaderService.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
